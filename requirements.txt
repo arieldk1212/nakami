@@ -1,0 +1,6 @@
+wheel
+Django==4.2.13
+djangorestframework
+
+python-decouple
+docker-compose
